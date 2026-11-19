@@ -1,0 +1,581 @@
+{
+  "kind": "independent-native-browser-observation",
+  "startedAt": "2026-11-19T02:59:29.507Z",
+  "candidateRevision": "d458803d9372062eafd58245c773efd2cdaa8e95",
+  "candidateFile": "index.html",
+  "candidateSha256": "b0b2c0c4b1a8e791699c1a8b8084c2f62e57dcc0290722e54cfac194c319039a",
+  "testRevision": "e7509c985a7437cba36c023f82e44721197bbca1",
+  "testSha256": "4424f91b1c220d4a0ffd70d2cf454f28ac21157718fe468699643e54de6443bf",
+  "frozenRuntimeImage": "sha256:cfdd13360965d846cf746bf829782d65247e5cb8e986c71271124f908e09673d",
+  "runtimeBindingScope": "Outer harness only; browser and downloaded dependencies identified separately.",
+  "platform": {
+    "system": "Linux",
+    "release": "7.0.14-linuxkit",
+    "arch": "arm64",
+    "node": "v24.13.0",
+    "osRelease": "PRETTY_NAME=\"Debian GNU/Linux 12 (bookworm)\"\nNAME=\"Debian GNU/Linux\"\nVERSION_ID=\"12\"\nVERSION=\"12 (bookworm)\"\nVERSION_CODENAME=bookworm\nID=debian\nHOME_URL=\"https://www.debian.org/\"\nSUPPORT_URL=\"https://www.debian.org/support\"\nBUG_REPORT_URL=\"https://bugs.debian.org/\"\n"
+  },
+  "headless": true,
+  "url": "file:///work/index.html",
+  "requests": [
+    {
+      "at": "2026-11-19T02:59:30.242Z",
+      "url": "file:///work/index.html",
+      "method": "GET",
+      "resourceType": "document",
+      "offline": false
+    },
+    {
+      "at": "2026-11-19T02:59:30.349Z",
+      "url": "file:///work/index.html",
+      "method": "GET",
+      "resourceType": "document",
+      "offline": false
+    },
+    {
+      "at": "2026-11-19T02:59:30.461Z",
+      "url": "file:///work/index.html",
+      "method": "GET",
+      "resourceType": "document",
+      "offline": false
+    },
+    {
+      "at": "2026-11-19T02:59:30.668Z",
+      "url": "file:///work/index.html",
+      "method": "GET",
+      "resourceType": "document",
+      "offline": true
+    }
+  ],
+  "consoleErrors": [],
+  "observations": [
+    {
+      "title": "欢迎",
+      "text": "欢迎！",
+      "lang": "zh-CN",
+      "charset": "UTF-8",
+      "url": "file:///work/index.html",
+      "online": true,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "document": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "body": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "headingRect": {
+        "x": 385,
+        "y": 358,
+        "width": 510,
+        "height": 84,
+        "top": 358,
+        "right": 895,
+        "bottom": 442,
+        "left": 385
+      },
+      "textRect": {
+        "x": 556,
+        "y": 367,
+        "width": 168,
+        "height": 65,
+        "top": 367,
+        "right": 724,
+        "bottom": 432,
+        "left": 556
+      },
+      "mainRect": {
+        "x": 320,
+        "y": 293,
+        "width": 640,
+        "height": 214,
+        "top": 293,
+        "right": 960,
+        "bottom": 507,
+        "left": 320
+      },
+      "computedStyle": {
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "fontSize": "56px",
+        "color": "rgb(30, 41, 59)",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+      },
+      "hitTests": [
+        {
+          "x": 557,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 557,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 640,
+          "y": 399.5,
+          "headingOnTop": true
+        }
+      ],
+      "textInViewport": true,
+      "textInsideHeading": true,
+      "resources": [],
+      "renderedFonts": [
+        {
+          "familyName": "WenQuanYi Zen Hei",
+          "postScriptName": "WenQuanYiZenHei",
+          "isCustomFont": false,
+          "glyphCount": 3
+        }
+      ],
+      "phase": "01-open-desktop",
+      "at": "2026-11-19T02:59:30.285Z",
+      "offlineRequested": false,
+      "screenshot": "01-open-desktop.png",
+      "passed": true
+    },
+    {
+      "title": "欢迎",
+      "text": "欢迎！",
+      "lang": "zh-CN",
+      "charset": "UTF-8",
+      "url": "file:///work/index.html",
+      "online": true,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "document": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "body": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "headingRect": {
+        "x": 385,
+        "y": 358,
+        "width": 510,
+        "height": 84,
+        "top": 358,
+        "right": 895,
+        "bottom": 442,
+        "left": 385
+      },
+      "textRect": {
+        "x": 556,
+        "y": 367,
+        "width": 168,
+        "height": 65,
+        "top": 367,
+        "right": 724,
+        "bottom": 432,
+        "left": 556
+      },
+      "mainRect": {
+        "x": 320,
+        "y": 293,
+        "width": 640,
+        "height": 214,
+        "top": 293,
+        "right": 960,
+        "bottom": 507,
+        "left": 320
+      },
+      "computedStyle": {
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "fontSize": "56px",
+        "color": "rgb(30, 41, 59)",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+      },
+      "hitTests": [
+        {
+          "x": 557,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 557,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 640,
+          "y": 399.5,
+          "headingOnTop": true
+        }
+      ],
+      "textInViewport": true,
+      "textInsideHeading": true,
+      "resources": [],
+      "renderedFonts": [
+        {
+          "familyName": "WenQuanYi Zen Hei",
+          "postScriptName": "WenQuanYiZenHei",
+          "isCustomFont": false,
+          "glyphCount": 3
+        }
+      ],
+      "phase": "02-refresh-desktop",
+      "at": "2026-11-19T02:59:30.367Z",
+      "offlineRequested": false,
+      "screenshot": "02-refresh-desktop.png",
+      "passed": true
+    },
+    {
+      "title": "欢迎",
+      "text": "欢迎！",
+      "lang": "zh-CN",
+      "charset": "UTF-8",
+      "url": "file:///work/index.html",
+      "online": true,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "document": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "body": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "headingRect": {
+        "x": 385,
+        "y": 358,
+        "width": 510,
+        "height": 84,
+        "top": 358,
+        "right": 895,
+        "bottom": 442,
+        "left": 385
+      },
+      "textRect": {
+        "x": 556,
+        "y": 367,
+        "width": 168,
+        "height": 65,
+        "top": 367,
+        "right": 724,
+        "bottom": 432,
+        "left": 556
+      },
+      "mainRect": {
+        "x": 320,
+        "y": 293,
+        "width": 640,
+        "height": 214,
+        "top": 293,
+        "right": 960,
+        "bottom": 507,
+        "left": 320
+      },
+      "computedStyle": {
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "fontSize": "56px",
+        "color": "rgb(30, 41, 59)",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+      },
+      "hitTests": [
+        {
+          "x": 557,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 557,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 640,
+          "y": 399.5,
+          "headingOnTop": true
+        }
+      ],
+      "textInViewport": true,
+      "textInsideHeading": true,
+      "resources": [],
+      "renderedFonts": [
+        {
+          "familyName": "WenQuanYi Zen Hei",
+          "postScriptName": "WenQuanYiZenHei",
+          "isCustomFont": false,
+          "glyphCount": 3
+        }
+      ],
+      "phase": "03-reopen-desktop",
+      "at": "2026-11-19T02:59:30.549Z",
+      "offlineRequested": false,
+      "screenshot": "03-reopen-desktop.png",
+      "passed": true
+    },
+    {
+      "title": "欢迎",
+      "text": "欢迎！",
+      "lang": "zh-CN",
+      "charset": "UTF-8",
+      "url": "file:///work/index.html",
+      "online": false,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "document": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "body": {
+        "clientWidth": 1280,
+        "scrollWidth": 1280
+      },
+      "headingRect": {
+        "x": 385,
+        "y": 358,
+        "width": 510,
+        "height": 84,
+        "top": 358,
+        "right": 895,
+        "bottom": 442,
+        "left": 385
+      },
+      "textRect": {
+        "x": 556,
+        "y": 367,
+        "width": 168,
+        "height": 65,
+        "top": 367,
+        "right": 724,
+        "bottom": 432,
+        "left": 556
+      },
+      "mainRect": {
+        "x": 320,
+        "y": 293,
+        "width": 640,
+        "height": 214,
+        "top": 293,
+        "right": 960,
+        "bottom": 507,
+        "left": 320
+      },
+      "computedStyle": {
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "fontSize": "56px",
+        "color": "rgb(30, 41, 59)",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+      },
+      "hitTests": [
+        {
+          "x": 557,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 368,
+          "headingOnTop": true
+        },
+        {
+          "x": 557,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 723,
+          "y": 431,
+          "headingOnTop": true
+        },
+        {
+          "x": 640,
+          "y": 399.5,
+          "headingOnTop": true
+        }
+      ],
+      "textInViewport": true,
+      "textInsideHeading": true,
+      "resources": [],
+      "renderedFonts": [
+        {
+          "familyName": "WenQuanYi Zen Hei",
+          "postScriptName": "WenQuanYiZenHei",
+          "isCustomFont": false,
+          "glyphCount": 3
+        }
+      ],
+      "phase": "04-offline-desktop",
+      "at": "2026-11-19T02:59:30.746Z",
+      "offlineRequested": true,
+      "screenshot": "04-offline-desktop.png",
+      "passed": true
+    },
+    {
+      "title": "欢迎",
+      "text": "欢迎！",
+      "lang": "zh-CN",
+      "charset": "UTF-8",
+      "url": "file:///work/index.html",
+      "online": true,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+      "viewport": {
+        "width": 320,
+        "height": 640
+      },
+      "document": {
+        "clientWidth": 320,
+        "scrollWidth": 320
+      },
+      "body": {
+        "clientWidth": 320,
+        "scrollWidth": 320
+      },
+      "headingRect": {
+        "x": 49,
+        "y": 296,
+        "width": 222,
+        "height": 48,
+        "top": 296,
+        "right": 271,
+        "bottom": 344,
+        "left": 49
+      },
+      "textRect": {
+        "x": 112,
+        "y": 301,
+        "width": 96,
+        "height": 38,
+        "top": 301,
+        "right": 208,
+        "bottom": 339,
+        "left": 112
+      },
+      "mainRect": {
+        "x": 24,
+        "y": 271,
+        "width": 272,
+        "height": 98,
+        "top": 271,
+        "right": 296,
+        "bottom": 369,
+        "left": 24
+      },
+      "computedStyle": {
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "fontSize": "32px",
+        "color": "rgb(30, 41, 59)",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif"
+      },
+      "hitTests": [
+        {
+          "x": 113,
+          "y": 302,
+          "headingOnTop": true
+        },
+        {
+          "x": 207,
+          "y": 302,
+          "headingOnTop": true
+        },
+        {
+          "x": 113,
+          "y": 338,
+          "headingOnTop": true
+        },
+        {
+          "x": 207,
+          "y": 338,
+          "headingOnTop": true
+        },
+        {
+          "x": 160,
+          "y": 320,
+          "headingOnTop": true
+        }
+      ],
+      "textInViewport": true,
+      "textInsideHeading": true,
+      "resources": [],
+      "renderedFonts": [
+        {
+          "familyName": "WenQuanYi Zen Hei",
+          "postScriptName": "WenQuanYiZenHei",
+          "isCustomFont": false,
+          "glyphCount": 3
+        }
+      ],
+      "phase": "05-offline-narrow",
+      "at": "2026-11-19T02:59:30.811Z",
+      "offlineRequested": true,
+      "screenshot": "05-offline-narrow.png"
+    }
+  ],
+  "browserVersion": "159.0.8154.6",
+  "browserExecutable": "/work/.browser-validation/browsers/chromium-1255/chrome-linux-arm64/chrome",
+  "browserExecutableSha256": "3818624ec1ee6760b7b0bf852d9b8ca5e70e089e55feb4c74f7591aadb1a05db",
+  "launchArgs": [
+    "--no-sandbox"
+  ],
+  "environment": {
+    "TMPDIR": "/work/.browser-validation/tmp",
+    "LD_LIBRARY_PATH": "/work/.browser-validation/sysroot/usr/lib/aarch64-linux-gnu:/work/.browser-validation/sysroot/lib/aarch64-linux-gnu",
+    "FONTCONFIG_FILE": "/work/.browser-validation/fonts.conf"
+  },
+  "fontConfig": "<?xml version=\"1.0\"?>\n<!DOCTYPE fontconfig SYSTEM \"fonts.dtd\">\n<fontconfig>\n  <dir>/work/.browser-validation/sysroot/usr/share/fonts</dir>\n  <cachedir>/work/.browser-validation/font-cache</cachedir>\n</fontconfig>\n",
+  "playwrightVersion": "1.65.1",
+  "status": "failed",
+  "error": {
+    "message": "Expected values to be strictly equal:\n\ntrue !== false\n",
+    "stack": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\ntrue !== false\n\n    at observe (/work/evidence/welcome-page/browser-check.cjs:67:56)\n    at async /work/evidence/welcome-page/browser-check.cjs:80:67"
+  },
+  "finishedAt": "2026-11-19T02:59:30.911Z"
+}
