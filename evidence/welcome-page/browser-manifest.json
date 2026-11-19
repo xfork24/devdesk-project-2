@@ -1,0 +1,69 @@
+{
+  "recordedAt": "2026-11-19T03:01:14.984967+00:00",
+  "files": [
+    {
+      "file": "01-open-desktop.png",
+      "sha256": "ab7943baaa279f8e31f3312bdf63bbd55a35f44633ca006ca6409b9570baa13b"
+    },
+    {
+      "file": "02-refresh-desktop.png",
+      "sha256": "ab7943baaa279f8e31f3312bdf63bbd55a35f44633ca006ca6409b9570baa13b"
+    },
+    {
+      "file": "03-reopen-desktop.png",
+      "sha256": "ab7943baaa279f8e31f3312bdf63bbd55a35f44633ca006ca6409b9570baa13b"
+    },
+    {
+      "file": "04-offline-desktop.png",
+      "sha256": "ab7943baaa279f8e31f3312bdf63bbd55a35f44633ca006ca6409b9570baa13b"
+    },
+    {
+      "file": "05-offline-narrow.png",
+      "sha256": "f566da39b6fe437a1a3399861e39afa06e1ded5cad01c6779ab833ff75e740f3"
+    },
+    {
+      "file": "06-offline-narrow-refresh.png",
+      "sha256": "f566da39b6fe437a1a3399861e39afa06e1ded5cad01c6779ab833ff75e740f3"
+    },
+    {
+      "file": "07-offline-narrow-reopen.png",
+      "sha256": "f566da39b6fe437a1a3399861e39afa06e1ded5cad01c6779ab833ff75e740f3"
+    },
+    {
+      "file": "08-offline-resize-desktop.png",
+      "sha256": "ab7943baaa279f8e31f3312bdf63bbd55a35f44633ca006ca6409b9570baa13b"
+    },
+    {
+      "file": "BROWSER.md",
+      "sha256": "6eb4f460be3fe37708c9a3e92eb40c72b5be8983323f063177885f3db0880bfe"
+    },
+    {
+      "file": "browser-check.cjs",
+      "sha256": "dacfc0ce81c34863dcf4a5f60c2f6885c624681bbf0d61eeb25f17b6438adc08"
+    },
+    {
+      "file": "browser-dependencies.json",
+      "sha256": "55105c156c4cb4f875f09fdc76a7fff76ce0c10cd7b3702224b10042656ba7af"
+    },
+    {
+      "file": "browser-launch-failure.json",
+      "sha256": "eda279afdce23d601366d7da88938f4d662a63df7bf3102abeb30021aafce5bf"
+    },
+    {
+      "file": "browser-observations.json",
+      "sha256": "6dcd612bfe1f0bf8b36a911f3d0711c71a68f1b22640a13c6012324925066b1f"
+    },
+    {
+      "file": "browser-offline-reapply-failure.json",
+      "sha256": "14bd0a4c4f266429f5b5f10f0a1ec0d489f3cf1d3c37eafa9176f5e7f6c12aa0"
+    },
+    {
+      "file": "browser-offline-setup-failure.json",
+      "sha256": "237023258c774a3c7195e63f54e40a651505ee2a3905bb603e75fc8e5c0272e0"
+    },
+    {
+      "file": "browser-probe-failure.json",
+      "sha256": "d08500ed977390898c6f53a9de6b600fa343f3595ea62ff327bc7758fbda2526"
+    }
+  ]
+}
